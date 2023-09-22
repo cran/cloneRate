@@ -1,0 +1,16 @@
+citHeader("To cite cloneRate in publications use:")
+
+bibentry(
+  bibtype    = "Article",
+  title    = "cloneRate: fast estimation of single-cell clonal dynamics using coalescent theory",
+  author   = "Brian Johnson, Yubo Shuai, Jason Schweinsberg, Kit Curtius",
+  journal  = "Bioinformatics",
+  year     = 2023,
+  volume   = NA,
+  number   = NA,
+  pages    = NA,
+  url      = "https://doi.org/10.1093/bioinformatics/btad561",
+  textVersion = paste(
+    "Johnson, B., Shuai, Y., Schweinsberg, J., Curtius, K. cloneRate: fast estimation of single-cell clonal dynamics using coalescent theory. Bioinformatics, 2023."
+  )
+)
